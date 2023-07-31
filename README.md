@@ -1,39 +1,49 @@
 ---
-layout: home
-title: Just the Class
+layout: page
+title: Home
+tagline: Programming Methodology
 nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
 ---
 
-# Just the Class
+# Programming Methodology
+{: .mb-2 }
+Software Engineering Programme, College of Science and Technology
+{: .mb-0 .fs-6 .text-grey-dk-000 }
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Oveview
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+This module aims to provide a comprehensive understanding of problem-solving techniques through the use of computing and programming in an imperative programming language. This introductory course is designed to equip students with the essential knowledge and skills required to succeed in subsequent computing modules. The topics covered include problem formulation and solving by computing, writing pseudo-codes, program development, coding, testing, and debugging. Additionally, students will be introduced to fundamental programming constructs such as variables, types, expressions, assignments, functions, and control structures. The course also covers fundamental data structures including arrays, strings, and structures, simple file processing, and basic recursion. By the end of this module, students will have a solid foundation in programming concepts and methodology that will serve as a basis for their future studies in computing.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
 
-## Getting Started
 
-Getting started with Just the Class is simple.
+<br>
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## Learning Outcomes
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+On completion of the module, students will be able to:
 
-### Local development environment
+1. explain a simple mental model of how a program is executed (CPU runs the code on data that is stored in memory, function call leads to the creation of call   frames, which can explain recursion and variable scoping, etc). For interpreted language, understand the role of virtual machine/interpreter; 
+2. describe at a high level the compilation process (from pre-processing to compiling to linking), where applicable;
+recognise the different data types and that there exists a representation of each in the memory, as well as the limitation of the representations due to the limited number of bits;
+3. develop programs with fundamental programming concepts and methodology (variables, assignments, conditions, branches, loops, functions, recursions, structures, simple data structure such as array);
+4. implement bubble sort and insertion sort; linear search and binary search (both iterative and recursive versions);
+6. understand and apply good programming practice(clear comments, naming convention, indentation, etc.), leveraging on problem-solving knowledge and skills to write small, well-documented, effective programs to solve a task, given the constraints on the inputs;
+7. implement object-oriented programming and principles
+8. examine manually trace through a program to identify logical errors and differentiate between logical errors, syntax errors, run-time errors and insecure functions to avoid.
+9. construct test cases, with a focus on boundary/special cases;
+10. apply parallel programming concepts by implementing multi-threading to enable concurrent execution of multiple tasks and improve program performance. 
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+
+
+
+<br>
+
+## Learning and teaching approach:
+
+Contact Hours : 45 hours
+<br>
+Practical Assignments : 3 Nos.
+<br>
+Independent Study : 15 hours
