@@ -1,32 +1,25 @@
 ---
-title:  UNIT I Introduction to Algorithms and Computational Thinking
+title:  UNIT III Understanding Control Structures
 ---
 
-### Week 1
+### Week 3
 
 
-Lecture 1 
-  : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
+Lecture 11
+  : [Loops and Reasoning about Loops](#)
     : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
 ){: .label .label-red }
   
-Lecture 2
-  : [RAM model of computation and asymptotic](#)
+Lecture 12
+  : [Functions, Call Stack and Scope](#)
     : [Slides](#){: .label .label-red }
 
-Lecture 3 
-  : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
+Lecture 13
+  : [Memory Addresses or Pointers](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 4 
-  : [Knapsack Problem](#)
+Lecture 14
+  : [Call by Value and Call by Reference](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 5
-  : [Brute Force Algorithm](#)
-    : [Slides](#){: .label .label-red }
-  
-Lecture 6
-  : [Greedy Algorithm](#)
-    : [Slides](#){: .label .label-red }
   
