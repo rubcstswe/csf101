@@ -28,31 +28,25 @@ schedule:
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Lecture(BI section A)
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Lab 1
+      - name: Lecture(BI section B)
+        start: 1:30 PM
+        end: 3:30 PM
+        location: Lab 2
   - name: Thursday
+    events:
+     - name: Lecture(All classes)
+        start: 11:00 AM
+        end: 13:00 PM
+        location: Auditorium
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Lecture(BI section C)
+        start: 9:00 AM
+        end: 11:00 AM
+        location: Lab 2
+      
 ---
