@@ -18,35 +18,36 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+
 schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: '1:30 PM'
-        end: '3:30 PM'  # Corrected the end time
+        start: 1:30 PM
+        end: 3:30 PM 
         location: Lab 1
   - name: Tuesday
-    events: []  # Placeholder for Tuesday's events
+    events: []  
   - name: Wednesday
     events:
       - name: Lecture[BI section A]
-        start: '9:00 AM'
-        end: '11:00 AM'
+        start: 9:00 AM
+        end: 11:00 AM
         location: Lab 1
       - name: Lecture[BI section B]
-        start: '1:30 PM'
-        end: '3:30 PM'
+        start: 1:30 PM
+        end: 3:30 PM
         location: Lab 2
   - name: Thursday
     events:
       - name: Lecture[All classes]
-        start: '11:00 AM'
-        end: '1:00 PM'  # Corrected the end time
+        start: 11:00 AM
+        end: 1:00 PM  
         location: Auditorium
   - name: Friday
     events:
       - name: Lecture[BI section C]
-        start: '9:00 AM'
-        end: '11:00 AM'
+        start: 9:00 AM
+        end: 11:00 AM
         location: Lab 2
 ---
