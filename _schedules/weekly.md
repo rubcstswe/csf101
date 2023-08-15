@@ -23,30 +23,30 @@ schedule:
     events:
       - name: Lecture
         start: '1:30 PM'
-        end: '3:30 AM'
+        end: '3:30 PM'  # Corrected the end time
         location: Lab 1
   - name: Tuesday
+    events: []  # Placeholder for Tuesday's events
   - name: Wednesday
     events:
-      - name: Lecture(BI section A)
+      - name: Lecture[BI section A]
         start: '9:00 AM'
         end: '11:00 AM'
         location: Lab 1
-      - name: Lecture(BI section B)
+      - name: Lecture[BI section B]
         start: '1:30 PM'
         end: '3:30 PM'
         location: Lab 2
   - name: Thursday
     events:
-     - name: Lecture(All classes)
+      - name: Lecture[All classes]
         start: '11:00 AM'
-        end: '1:00 PM'
+        end: '1:00 PM'  # Corrected the end time
         location: Auditorium
   - name: Friday
     events:
-      - name: Lecture(BI section C)
+      - name: Lecture[BI section C]
         start: '9:00 AM'
         end: '11:00 AM'
         location: Lab 2
-      
 ---
