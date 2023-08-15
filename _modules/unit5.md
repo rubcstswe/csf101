@@ -1,32 +1,43 @@
 ---
-title:  UNIT I Introduction to Algorithms and Computational Thinking
+title:  UNIT V Principles of Object-Oriented Programming
 ---
 
-### Week 1
-
-
-Lecture 1 
-  : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
-    : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
-){: .label .label-red }
+### Week 6
   
-Lecture 2
-  : [RAM model of computation and asymptotic](#)
+Lecture 23
+  : [Introduction to Object Oriented Programming, principle, Benefits and applications of OOP
+](#)
     : [Slides](#){: .label .label-red }
 
-Lecture 3 
-  : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
+Lecture 24
+  : [ Abstraction, encapsulation, inheritance, and polymorphism](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 4 
-  : [Knapsack Problem](#)
+Lecture 25
+  : [ Classes and Objects: Private & public members, static data & function
+members, Structs Object
+](#)
+    : [Slides](#){: .label .label-red }
+
+### Week 7
+  
+Lecture 26
+  : [Constructors and destructors, operators overloading and type conversions
+](#)
+    : [Slides](#){: .label .label-red }
+
+Lecture 27
+  : [ SOLID: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle and dependency inversion principle
+](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 5
-  : [Brute Force Algorithm](#)
+Lecture 28
+  : [ Implementing Inheritance: concept, types, single and multilevel, hierarchical, hybrid, protected members, overriding, virtual base class
+](#)
+    : [Slides](#){: .label .label-red }
+
+Lecture 29
+  : [Extending classes, Virtual functions and polymorphism](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 6
-  : [Greedy Algorithm](#)
-    : [Slides](#){: .label .label-red }
   
