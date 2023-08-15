@@ -1,5 +1,5 @@
 ---
-title:  UNIT I Computational Problems, Algorithms & Parallel Computing
+title:  UNIT IV Computational Problems, Algorithms & Parallel Computing
 ---
 
 ### Week 1V
@@ -29,13 +29,11 @@ Lecture 19
     : [Slides](#){: .label .label-red }
   
 Lecture 20
-  : [Embarrassingly Parallel, Shared-Memory Parallelism (Multithreading), Distributed-Memory Parallelism (Multiprocessing), Accelerator Parallelism (GPU's, and FPGA's)
-](#)
+  : [Embarrassingly Parallel, Shared-Memory Parallelism (Multithreading), Distributed-Memory Parallelism (Multiprocessing), Accelerator Parallelism (GPU's, and FPGA's)](#)
     : [Slides](#){: .label .label-red }
 
 Lecture 21
-  : [Race conditions, mutual exclusion, synchronization, and parallel slowdown
-](#)
+  : [Race conditions, mutual exclusion, synchronization, and parallel slowdown](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 22
