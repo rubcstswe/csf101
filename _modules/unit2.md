@@ -1,16 +1,16 @@
 ---
-title:  UNIT I Introduction to Algorithms and Computational Thinking
+title:  UNIT II Understanding Basic Data Types
 ---
 
-### Week 1
+### Week 2
 
 
-Lecture 1 
+Lecture 6 
   : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
     : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
 ){: .label .label-red }
   
-Lecture 2
+Lecture 7
   : [RAM model of computation and asymptotic](#)
     : [Slides](#){: .label .label-red }
 
