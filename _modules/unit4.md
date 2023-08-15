@@ -1,11 +1,11 @@
 ---
-title:  UNIT I Introduction to Algorithms and Computational Thinking
+title:  UNIT I Computational Problems, Algorithms & Parallel Computing
 ---
 
-### Week 1
+### Week 1V
 
 
-Lecture 1 
+Lecture 1
   : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
     : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
 ){: .label .label-red }
