@@ -1,6 +1,6 @@
 ---
 name: Douglas Sim
-role: Head of Department, Co-Program Lead
+role: Tutor
 email: douglas.cst@rub.edu.bt
 photo: douglas.png
 ---
