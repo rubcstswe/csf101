@@ -6,27 +6,22 @@ title:  UNIT II Understanding Basic Data Types
 
 
 Lecture 6 
-  : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
-    : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
-){: .label .label-red }
+  : [Data Types](#)
+    : [Slides](#){: .label .label-red }
   
 Lecture 7
-  : [RAM model of computation and asymptotic](#)
+  : [Manipulating Strings](#)
     : [Slides](#){: .label .label-red }
 
-Lecture 3 
-  : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
+Lecture 8
+  : [Arrays,Lists Dictonary](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 4 
-  : [Knapsack Problem](#)
+Lecture 9
+  : [Multidimensional Arrays](#)
     : [Slides](#){: .label .label-red }
   
-Lecture 5
-  : [Brute Force Algorithm](#)
-    : [Slides](#){: .label .label-red }
-  
-Lecture 6
-  : [Greedy Algorithm](#)
+Lecture 10
+  : [Standard I/O Functions, I/O file management](#)
     : [Slides](#){: .label .label-red }
   
