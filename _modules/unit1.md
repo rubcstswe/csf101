@@ -6,19 +6,19 @@ title:  UNIT I Understanding Basic Data Types
 
 
 Lecture 1 
-  : [Basic Computer Programs; Computational Problems and Algorithms](#)
+  : [How a Computer Works](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 2
-  : [Preprocessing & Compilation](#)
+  : [Computational Thinking](#)
     : [Slides](#){: .label .label-red }
 
 Lecture 3 
-  : [Program Structures, types](#)
+  : [Compilation](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 4 
-  : [ Namespace, identifiers, variables, constants, operators](#)
+  : [Basic Python](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 5
