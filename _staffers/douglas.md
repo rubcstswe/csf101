@@ -5,4 +5,4 @@ email: douglas.cst@rub.edu.bt
 photo: douglas.png
 ---
 
-I like teaching Computer Science!
+
