@@ -22,8 +22,7 @@ Lecture 4
     : [Slides](#){: .label .label-red }
   
 Lecture 5
-  : [ Arithmetic Operations, Logical Expressions
- and Conditional Statements](#)
+  : [ Arithmetic Operations, Logical Expressions and Conditional Statements](#)
     : [Slides](#){: .label .label-red }
 
   
