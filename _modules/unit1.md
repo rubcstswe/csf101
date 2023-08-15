@@ -1,32 +1,29 @@
 ---
-title:  UNIT I Introduction to Algorithms and Computational Thinking
+title:  UNIT I Understanding Basic Data Types
 ---
 
 ### Week 1
 
 
 Lecture 1 
-  : [Overview of Algorithms; Algorithm Analysis and Design Principles](#)
-    : [Slides]([Session 1.pdf](https://github.com/rubcstswe/cstswe-dsf101.github.io/files/12245777/Session.1.pdf)
-){: .label .label-red }
+  : [Basic Computer Programs; Computational Problems and Algorithms](#)
+    : [Slides](#){: .label .label-red }
   
 Lecture 2
-  : [RAM model of computation and asymptotic](#)
+  : [Preprocessing & Compilation](#)
     : [Slides](#){: .label .label-red }
 
 Lecture 3 
-  : [Computational Models; Optimization Models, Simulation Models and Statistical Models](#)
+  : [Program Structures, types](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 4 
-  : [Knapsack Problem](#)
+  : [ Namespace, identifiers, variables, constants, operators](#)
     : [Slides](#){: .label .label-red }
   
 Lecture 5
-  : [Brute Force Algorithm](#)
+  : [ Arithmetic Operations, Logical Expressions
+ and Conditional Statements](#)
     : [Slides](#){: .label .label-red }
-  
-Lecture 6
-  : [Greedy Algorithm](#)
-    : [Slides](#){: .label .label-red }
+
   
