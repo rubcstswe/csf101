@@ -22,21 +22,16 @@ This module aims to provide a comprehensive understanding of problem-solving tec
 ## Learning Outcomes
 
 On completion of the module, students will be able to:
-
-1. explain a simple mental model of how a program is executed (CPU runs the code on data that is stored in memory, function call leads to the creation of call   frames, which can explain recursion and variable scoping, etc). For interpreted language, understand the role of virtual machine/interpreter; 
-2. describe at a high level the compilation process (from pre-processing to compiling to linking), where applicable;
-recognise the different data types and that there exists a representation of each in the memory, as well as the limitation of the representations due to the limited number of bits;
-3. develop programs with fundamental programming concepts and methodology (variables, assignments, conditions, branches, loops, functions, recursions, structures, simple data structure such as array);
-4. implement bubble sort and insertion sort; linear search and binary search (both iterative and recursive versions);
-6. understand and apply good programming practice(clear comments, naming convention, indentation, etc.), leveraging on problem-solving knowledge and skills to write small, well-documented, effective programs to solve a task, given the constraints on the inputs;
-7. implement object-oriented programming and principles
-8. examine manually trace through a program to identify logical errors and differentiate between logical errors, syntax errors, run-time errors and insecure functions to avoid.
-9. construct test cases, with a focus on boundary/special cases;
-10. apply parallel programming concepts by implementing multi-threading to enable concurrent execution of multiple tasks and improve program performance. 
-
-
-
-
+1. **explain** a simple mental model of how a program is executed (CPU runs the code on data that is stored in memory, function call leads to the creation of call frames, which can explain recursion and variable scoping, etc). For interpreted language, understand the role of virtual machine/interpreter; 
+2. **describe** at a high level the compilation process (from pre-processing to compiling to linking), where applicable;
+3. **recognise** the different data types and that there exists a representation of each in the memory, as well as the limitation of the representations due to the limited number of bits;
+4. **develop** programs with fundamental programming concepts and methodology (variables, assignments, conditions, branches, loops, functions, recursions, structures, simple data structures such as array);
+5. **apply** bubble sort and insertion sort; linear search and binary search (both iterative and recursive versions);
+6. **apply** good programming practice(clear comments, naming convention, indentation, etc.), leveraging on problem-solving knowledge and skills to write small, well-documented, effective programs to solve a task, given the constraints on the inputs;
+7. **apply** object-oriented programming and principles to software applications
+8. **examine** manually trace through a program to identify logical errors and differentiate between logical errors, syntax errors, run-time errors and insecure functions to avoid.
+9. **apply** common strategies and good practices of debugging with print or equivalent functions;
+10. **construct** test cases on code, with a focus on boundary/special cases. 
 
 <br>
 
