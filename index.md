@@ -101,4 +101,4 @@ On completion of the module, students will be able to:
 | Viva Voce               | 1    | 25        |
 | Flipped Classroom Journals | 5 | 10        |
 
-
+<br>
