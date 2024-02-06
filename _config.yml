@@ -17,6 +17,7 @@ title: CSF101
 baseurl: ~ # the subpath of your site, e.g. /blog
 url: '#' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+markdown: GFM
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
