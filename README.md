@@ -38,10 +38,12 @@ On completion of the module, students will be able to:
 |                    | Self Study         | 1          | 15           |
 | **Total**          |                    | **8**      | **120**      |
 
-
-
-Contact Hours : 60 credit hours
 <br>
-Practical Assignments : 3 Nos.
-<br>
-Independent Study : 60 credit hours
+##Overview of the assessment approaches and weighting
+| Areas of Assessment     | Nos. | Marks (%) |
+|----------------------|------|-----------|
+| Mid-term test           | 1    | 15        |
+| Practical Assignments   | 3    | 50        |
+| Viva Voce               | 1    | 25        |
+| Flipped Classroom Journals | 5 | 10        |
+
