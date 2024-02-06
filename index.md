@@ -95,7 +95,9 @@ On completion of the module, students will be able to:
 
 ## Overview of the assessment approaches and weighting
 | Areas of Assessment     | Nos. | Marks (%) |
-|----------------------|------|-----------|
+
+| ---------------------- | ------ | ----------- |
+
 | Mid-term test           | 1    | 15        |
 | Practical Assignments   | 3    | 50        |
 | Viva Voce               | 1    | 25        |
