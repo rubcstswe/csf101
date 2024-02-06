@@ -10,12 +10,11 @@ nav_exclude: true
 Software Engineering Programme, College of Science and Technology
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-
----
-Module Code and Title:	CSF101 Programming Methodology 
-Credit:	12
-Module Coordinator		:	Kamal Acharya
----
+<br>
+|Module Code and Title|	CSF101 Programming Methodology 
+|Credit|	12
+|Module Coordinator		|Kamal Acharya
+<br>
 
 ## General Objective
 
