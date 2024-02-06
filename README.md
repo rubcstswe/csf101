@@ -38,7 +38,6 @@ On completion of the module, students will be able to:
 |                    | Self Study         | 1          | 15           |
 | **Total**          |                    | **8**      | **120**      |
 
-<br>
 ##Overview of the assessment approaches and weighting
 | Areas of Assessment     | Nos. | Marks (%) |
 |----------------------|------|-----------|
