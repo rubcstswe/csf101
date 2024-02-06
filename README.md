@@ -29,6 +29,16 @@ On completion of the module, students will be able to:
 <br>
 
 ## Learning and teaching approach:
+| Type               | Approach           | Hours/week | Credit hours |
+|--------------------|--------------------|------------|--------------|
+| Contact            | Lecture/Flipped Classroom | 2          | 30           |
+|                    | Practical          | 2          | 30           |
+| Independent Study  | Practical Assignments | 2         | 30           |
+|                    | VLE Consultations  | 1          | 15           |
+|                    | Self Study         | 1          | 15           |
+| **Total**          |                    | **8**      | **120**      |
+
+
 
 Contact Hours : 60 credit hours
 <br>
