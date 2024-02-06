@@ -1,21 +1,14 @@
 ---
-layout: page
-title: Home
-tagline: Programming Methodology
-nav_exclude: true
+Module Code and Title:	CSF101 Programming Methodology 
+Programme:	BE Software Engineering
+Credit:	12
+Module Coordinator		:	Kamal Acharya
+College: College of Science and Technology
 ---
 
-# Programming Methodology
-{: .mb-2 }
-Software Engineering Programme, College of Science and Technology
-{: .mb-0 .fs-6 .text-grey-dk-000 }
-
-## Oveview
+## General Objective
 
 This module aims to provide a comprehensive understanding of problem-solving techniques through the use of computing and programming in an imperative programming language. This introductory course is designed to equip students with the essential knowledge and skills required to succeed in subsequent computing modules. The topics covered include problem formulation and solving by computing, writing pseudo-codes, program development, coding, testing, and debugging. Additionally, students will be introduced to fundamental programming constructs such as variables, types, expressions, assignments, functions, and control structures. The course also covers fundamental data structures including arrays, strings, and structures, simple file processing, and basic recursion. By the end of this module, students will have a solid foundation in programming concepts and methodology that will serve as a basis for their future studies in computing.
-
-
-
 
 <br>
 
@@ -37,8 +30,8 @@ On completion of the module, students will be able to:
 
 ## Learning and teaching approach:
 
-Contact Hours : 45 hours
+Contact Hours : 60 credit hours
 <br>
 Practical Assignments : 3 Nos.
 <br>
-Independent Study : 15 hours
+Independent Study : 60 credit hours
