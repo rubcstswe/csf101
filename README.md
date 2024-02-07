@@ -33,19 +33,8 @@ On completion of the module, students will be able to:
 |--------------------|--------------------|------------|--------------|
 | Contact            | Lecture/Flipped Classroom | 2          | 30           |
 |                    | Practical          | 2          | 30           |
-| Independent Study  | Practical Assignments | 2         | 30           |
+| Independent Study  | Practical Assignments | 3         | 30           |
 |                    | VLE Consultations  | 1          | 15           |
 |                    | Self Study         | 1          | 15           |
 | **Total**          |                    | **8**      | **120**      |
-
-<br>
-
-
-## Overview of the assessment approaches and weighting
-| Areas of Assessment     | Nos. | Marks (%) |
-|----------------------|------|-----------|
-| Mid-term test           | 1    | 15        |
-| Practical Assignments   | 3    | 50        |
-| Viva Voce               | 1    | 25        |
-| Flipped Classroom Journals | 5 | 10        |
 
