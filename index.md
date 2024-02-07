@@ -4,6 +4,7 @@
 
 <br>
 
+|-----------------------|--------------------------------|
 | Module Code and Title | CSF101 Programming Methodology |
 | Programme | BE SOftware Engineering |
 | Credit | 12
