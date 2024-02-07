@@ -1,28 +1,23 @@
----
-layout: page
-title: Home
-tagline: Programming Methodology
-nav_exclude: true
----
 
-# Programming Methodology
-{: .mb-2 }
-Software Engineering Programme, College of Science and Technology
-{: .mb-0 .fs-6 .text-grey-dk-000 }
+
+# Module Descriptor
 
 <br>
-|Module Code and Title|	CSF101 Programming Methodology 
-|Credit|	12
-|Module Coordinator		|Kamal Acharya
+
+|Module Code and Title|CSF101 Programming Methodology|
+|Programme|BE SOftware Engineering|
+|Credit|12
+|Module Coordinator|Kamal Acharya|
+
 <br>
 
-## General Objective
+### General Objective
 
 This module aims to provide a comprehensive understanding of problem-solving techniques through the use of computing and programming in an imperative programming language. This introductory course is designed to equip students with the essential knowledge and skills required to succeed in subsequent computing modules. The topics covered include problem formulation and solving by computing, writing pseudo-codes, program development, coding, testing, and debugging. Additionally, students will be introduced to fundamental programming constructs such as variables, types, expressions, assignments, functions, and control structures. The course also covers fundamental data structures including arrays, strings, and structures, simple file processing, and basic recursion. By the end of this module, students will have a solid foundation in programming concepts and methodology that will serve as a basis for their future studies in computing.
 
 <br>
 
-## Learning Outcomes
+### Learning Outcomes
 
 On completion of the module, students will be able to:
 1. **explain** a simple mental model of how a program is executed (CPU runs the code on data that is stored in memory, function call leads to the creation of call frames, which can explain recursion and variable scoping, etc). For interpreted language, understand the role of virtual machine/interpreter; 
@@ -38,7 +33,7 @@ On completion of the module, students will be able to:
 
 <br>
 
-## Learning and teaching approach:
+### Learning and teaching approach:
 | Type               | Approach           | Hours/week | Credit hours |
 |--------------------|--------------------|------------|--------------|
 | Contact            | Lecture/Flipped Classroom | 2          | 30           |
@@ -51,7 +46,7 @@ On completion of the module, students will be able to:
 <br>
 
 
-## Overview of the assessment approaches and weighting
+### Overview of the assessment approaches and weighting
 | Areas of Assessment     | Nos. | Marks (%) |
 |-------------------------|------|-----------|
 | Mid-term test           | 1    | 15        |
